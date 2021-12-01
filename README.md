@@ -1,9 +1,25 @@
-- Hi, my name is Rustam.
-- I’m interested in android development
-- I’m currently learning android development
-- I’m looking to collaborate on software engineering
+# Hi, I'm Rustam.
+Android Software Engineer. I am developing on android. 
+Languages in use are Java and Kotlin.
 
-Here you can find my pet projects.
+I’m looking to collaborate on software engineering.
+
+
+<p align='center'>
+  
+   <a href="https://github.com/RazorTm/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorTm&layout=compact"/></a>
+</p>
+
+
+## 🛠 Technical Stack
+*   Java/Kotlin languages
+*   MVVM, MVP
+*   Room DB, Retrofit 2, Navigation Components
+*   Coroutine, LiveData, Dagger DI
+*   GitHub/GitLab
+
+
 
 <!---
 RazorTm/RazorTm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
